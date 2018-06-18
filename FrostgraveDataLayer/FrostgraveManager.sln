@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostgraveDataLayer", "FrostgraveDataLayer\FrostgraveDataLayer.csproj", "{5AD20AED-B791-4B89-BA9E-69DEED568C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostgraveManagerFrontEnd", "..\FrostgraveManagerFrontEnd\FrostgraveManagerFrontEnd.csproj", "{B9FB2A77-E391-44FB-8F9B-48B0C75FFF6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD20AED-B791-4B89-BA9E-69DEED568C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD20AED-B791-4B89-BA9E-69DEED568C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD20AED-B791-4B89-BA9E-69DEED568C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD20AED-B791-4B89-BA9E-69DEED568C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FB2A77-E391-44FB-8F9B-48B0C75FFF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FB2A77-E391-44FB-8F9B-48B0C75FFF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FB2A77-E391-44FB-8F9B-48B0C75FFF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FB2A77-E391-44FB-8F9B-48B0C75FFF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8767DBB9-1C17-4A4C-A494-E9F82C8AFFB0}
+	EndGlobalSection
+EndGlobal
